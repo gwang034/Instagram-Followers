@@ -1,5 +1,5 @@
 # 🎀 Instagram Followers 🎀
- Who do you follow on Instagram that doesn't follow you back? Don't be a fan xoxo
+ Who doesn't follow you back? Don't be a fan xoxo
  
  This script is a fast (and safe!) way to check who doesn't follow you back on IG without potentially putting your account at risk to a bitcoin hacker 😍
 
